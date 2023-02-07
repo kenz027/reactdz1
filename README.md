@@ -1,5 +1,1 @@
-# reactDz1
-# reactdz1
-# reactdz1
-# reactdz1
-# reactdz1
+Домашнее задание к занятию "Компоненты"
